@@ -1,7 +1,6 @@
-# book-heading-structure
-A simple HTML project demonstrating the use and hierarchy of heading tags from <h1> to <h6>.
 # Book Heading Structure
 
+A simple HTML project demonstrating the use and hierarchy of heading tags from <h1> to <h6>.
 This project contains a simple HTML document that outlines the structural hierarchy of a book with chapters and sections.
 
 ## File
